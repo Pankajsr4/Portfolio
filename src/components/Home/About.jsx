@@ -20,46 +20,27 @@ const About = () => {
                 <h1 style={{ fontSize: "2.6em" }}>
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
-                <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
-                <br />
-                <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                <p className="home-about-body"><b className="yellow">Pankaj Kumar</b>
+                <br/>   
+                <br/>
+                Cybersecurity Enthusiast | Computer Science Undergraduate | Ethical Hacking | Network Security | AI in Cybersecurity
+                  <br />
+                  <br />
+                  I’m Pankaj Kumar from Gurugram, Haryana, currently pursuing a Bachelor's degree in Computer Science and Engineering from Lovely Professional University.
                 <br />
                 <br />
                   As a
-                  <b className="yellow"> Full-Stack </b>developer,  
-                  I enjoy tackling new challenges and continuously expanding my skillset.
-                  <br />
-                  <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
-                  <br />
-                  <br />
-                  I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
-                  <i>
-                    <b className="yellow">
-                      {" "}
-                      modern Javascript libraries and frameworks
-                    </b>
-                  </i>
-                  &nbsp; like
-                  <i>
-                    <b className="yellow"> React.js</b>
-                  </i>
+                  <b className="yellow"> Cyber Security </b>expert,  
+                  I thrive on solving complex challenges and continuously expanding my technical skillset. I have hands-on experience with tools like
+
+                    <b className="yellow"> Wireshark, </b>
+                    and <b className="yellow">Metasploit </b>
+                    along with a solid foundation in <b className="yellow"> network security, cryptography, and ethical hacking. </b>
+
                   <br />
                   <br />
-                  I am also interested in building new
-                  <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
-                    as well as exploring areas related to
-                    <b className="yellow"> Artificial Intelligence.</b>
-                  </i>
-                  <br />
-                  
+                  My technical proficiency includes programming languages such as <b className="yellow"> C++, Java, Python, and Solidity</b>, as well as experience with <b className="yellow">Kali Linux </b>tools. I'm particularly passionate about building secure web technologies and exploring how <b className="yellow"> Artificial Intelligence </b>can enhance cybersecurity solutions.
+
                 </p>
               </Col>
               <Col md={4} className="myAvtar">
@@ -77,7 +58,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/Pankajsr4"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -88,7 +69,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://twitter.com/ChPankaj07"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -99,7 +80,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/pankaj-kumar-sr4/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -110,7 +91,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://leetcode.com/19sajib/"
+                      href="https://leetcode.com/kumarpankaj9982/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
